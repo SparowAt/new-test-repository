@@ -61,6 +61,7 @@ def get_password(username: str) -> str:
 
 # Основной блок
 if __name__ == "__main__":
+    print("Классно, верно?")
     # Создание базы данных
     create_database()
 
